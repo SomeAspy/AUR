@@ -1,3 +1,6 @@
 [submodule "packages/legcord-git"]
 	path = packages/legcord-git
 	url = https://aur.archlinux.org/legcord-git.git
+[submodule "packages/legcord"]
+	path = packages/legcord
+	url = https://aur.archlinux.org/legcord.git
