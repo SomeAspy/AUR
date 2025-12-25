@@ -1,6 +1,3 @@
-[submodule "packages/legcord-git"]
-	path = packages/legcord-git
-	url = https://aur.archlinux.org/legcord-git.git
-[submodule "packages/legcord"]
-	path = packages/legcord
-	url = https://aur.archlinux.org/legcord.git
+[submodule "packages/seafile-client-appimage"]
+	path = packages/seafile-client-appimage
+	url = ssh://aur@aur.archlinux.org/pkgbase.git
