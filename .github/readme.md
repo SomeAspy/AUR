@@ -2,8 +2,7 @@
 
 AUR packages I maintain.
 
-- [legcord-git](https://aur.archlinux.org/packages/legcord-git)
-- [legcord](https://aur.archlinux.org/packages/legcord)
+- [seafile-client-appimage](https://aur.archlinux.org/packages/seafile-client-appimage)
 
 contact me at [amb@aspy.dev](mailto:amb@aspy.dev)
 
